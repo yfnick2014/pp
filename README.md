@@ -1,2 +1,86 @@
 # pp
 notes for "the practice of programming"
+## Menu
+- Chapter 1: Style
+  - 1.1 Names
+  - 1.2 Expressions and Statements
+  - 1.3 Consistency and Idioms
+  - 1.4 Function Macros
+  - 1.5 Magic Numbers
+  - 1.6 Comments
+  - 1.7 Why Bother?
+- Chapter 2: Algorithms and Data Structures
+  - 2.1 Searching
+  - 2.2 Sorting
+  - 2.3 Libraries
+  - 2.4 A Java Quicksort
+  - 2.5 0-Notation
+  - 2.6 Growing Arrays
+  - 2.7 Lists
+  - 2.8 Trees
+  - 2.9 Hash Tables
+  - 2.10 Summary
+- Chapter 3: Design and Implementation
+  - 3.1 The Markov Chain Algorithm
+  - 3.2 Data Structure Alternatives
+  - 3.3 Building the Data Structure in C
+  - 3.4 Generating Output
+  - 3.5 Java
+  - 3.6 C++
+  - 3.7 Awk and Perl
+  - 3.8 Performance
+  - 3.9 Lessons
+- Chapter 4: Interfaces
+  - 4.1 Comma-Separated Values
+  - 4.2 A Prototype Library
+  - 4.3 A Library for Others
+  - 4.4 A C++ Implementation
+  - 4.5 Interface Principles
+  - 4.6 Resource Management
+  - 4.7 Abort, Retry. Fail?
+  - 4.8 User Interfaces
+- Chapter 5: Debugging
+  - 5.1 Debuggers
+  - 5.2 Good Clues, Easy Bugs
+  - 5.3 No Clues, Hard Bugs
+  - 5.4 Last Resorts
+  - 5.5 Non-reproducible Bugs
+  - 5.6 Debugging Tools
+  - 5.7 Other People's Bugs
+  - 5.8 Summary
+- Chapter 6: Testing
+  - 6.1 Test as You Write the Code
+  - 6.2 Systematic Testing
+  - 6.3 Test Automation
+  - 6.4 Test Scaffolds
+  - 6.5 Stress Tests
+  - 6.6 Tips for Testing
+  - 6.7 Who Does the Testing?
+  - 6.8 Testing the Markov Program
+  - 6.9 Summary
+- Chapter 7: Performance
+  - 7.1 A Bottleneck
+  - 7.2 Timing and Profiling
+  - 7.3 Strategies for Speed
+  - 7.4 Tuning the Code
+  - 7.5 Space Efficiency
+  - 7.6 Estimation
+  - 7.7 Summary
+- Chapter 8: Portability
+  - 8.1 Language
+  - 8.2 Headers and Libraries
+  - 8.3 Program Organization
+  - 8.4 Isolation
+  - 8.5 Data Exchange
+  - 8.6 Byte Order
+  - 8.7 Portability and Upgrade
+  - 8.8 Internationalization
+  - 8.9 Summary
+- Chapter 9: Notation
+  - 9.1 Formatting Data
+  - 9.2 Regular Expressions
+  - 9.3 Programmable Tools
+  - 9.4 Interpreters, Compilers, and Virtual Machines
+  - 9.5 Programs that Write Programs
+  - 9.6 Using Macros to Generate Code
+  - 9.7 Compiling on the Fly
